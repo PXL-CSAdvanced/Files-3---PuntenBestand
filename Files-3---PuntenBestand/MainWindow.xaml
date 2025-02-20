@@ -14,10 +14,10 @@
         </Grid.RowDefinitions>
         <TextBox x:Name="resultTextBox" Grid.Row="0" Margin="10" IsReadOnly="True" FontFamily="Consolas"/>
         <WrapPanel Grid.Row="1">
-            <Button x:Name="ReadButton" Content="Inlezen..." Margin="20" Width="80" Height="30" Click="BtnInlezen_Click"/>
-            <Button x:Name="transformButton" Content="Verwerken" Margin="20" Width="80" Height="30" Click="BtnVerwerken_Click" IsEnabled="False"/>
-            <Button x:Name="checkButton" Content="Nalezen..." Margin="20" Width="80" Height="30" Click="BtnNalezen_Click" IsEnabled="False"/>
-            <Button x:Name="closeButton" Content="Sluiten" Margin="20" Width="80" Height="30" Click="BtnSluiten_Click"/>
+            <Button x:Name="readButton" Content="Inlezen..." Margin="20" Width="80" Height="30"/>
+            <Button x:Name="transformButton" Content="Verwerken" Margin="20" Width="80" Height="30" IsEnabled="False"/>
+            <Button x:Name="checkButton" Content="Nalezen..." Margin="20" Width="80" Height="30" IsEnabled="False"/>
+            <Button x:Name="closeButton" Content="Sluiten" Margin="20" Width="80" Height="30"/>
         </WrapPanel>
     </Grid>
 </Window>
