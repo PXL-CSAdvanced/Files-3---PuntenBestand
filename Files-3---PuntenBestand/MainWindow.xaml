@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Files_3___PuntenBestand"
         mc:Ignorable="d"
-        mc:Ignorable="d"
         Title="Inlezen bestand met vaste lengte" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
@@ -14,10 +13,10 @@
         </Grid.RowDefinitions>
         <TextBox x:Name="resultTextBox" Grid.Row="0" Margin="10" IsReadOnly="True" FontFamily="Consolas"/>
         <WrapPanel Grid.Row="1">
-            <Button x:Name="ReadButton" Content="Inlezen..." Margin="20" Width="80" Height="30" Click="BtnInlezen_Click"/>
-            <Button x:Name="transformButton" Content="Verwerken" Margin="20" Width="80" Height="30" Click="BtnVerwerken_Click" IsEnabled="False"/>
-            <Button x:Name="checkButton" Content="Nalezen..." Margin="20" Width="80" Height="30" Click="BtnNalezen_Click" IsEnabled="False"/>
-            <Button x:Name="closeButton" Content="Sluiten" Margin="20" Width="80" Height="30" Click="BtnSluiten_Click"/>
+            <Button x:Name="readButton" Content="Inlezen..." Margin="20" Width="80" Height="30" Click="readButton_Click"/>
+            <Button x:Name="transformButton" Content="Verwerken" Margin="20" Width="80" Height="30" IsEnabled="False" Click="transformButton_Click"/>
+            <Button x:Name="checkButton" Content="Nalezen..." Margin="20" Width="80" Height="30" IsEnabled="False" Click="checkButton_Click"/>
+            <Button x:Name="closeButton" Content="Sluiten" Margin="20" Width="80" Height="30" Click="closeButton_Click"/>
         </WrapPanel>
     </Grid>
 </Window>
