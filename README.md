@@ -1,7 +1,7 @@
 # PuntenBestand
 
 Lees het tekstbestand *Punten.txt* met vaste lengte in en toon het in
-het tekstvak *TxtResultaat*. Na het inlezen worden de opdrachtknoppen
+het tekstvak *resultTextBox*. Na het inlezen worden de opdrachtknoppen
 *Verwerken* en *Nalezen* zichtbaar.
 
 ![Afbeelding met tekst, elektronica, schermopname, scherm Automatisch
