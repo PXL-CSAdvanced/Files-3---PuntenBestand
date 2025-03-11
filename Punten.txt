@@ -1,0 +1,27 @@
+﻿Aerts David        aed@student.pxl.be   M       015020   
+Atay Ufuk          atu@student.pxl.be   M       012020   
+Claeskens Gert     clg@student.pxl.be   M       011020   
+Coenegrachts Jimmy coj@student.pxl.be   M       029040   
+Cooreman Kurt      cok@student.pxl.be   M       005020   
+Crabbé Brent       crb@student.pxl.be   M       015030   
+Critelli Marco     crm@student.pxl.be   M       029040   
+Gijsels Kain       gik@student.pxl.be   M       029040   
+Hendrikx Koen      hek@student.pxl.be   M       029040   
+Indekeu Kobe       ink@student.pxl.be   M       048060   
+Jackers Philippe   jap@student.pxl.be   M       048060   
+Lemmens Guido      leg@student.pxl.be   M       015100   
+Makhlova Olga      mao@student.pxl.be   V       048060   
+Mariman Dennis     mad@student.pxl.be   M       048060   
+Meulebroeks Jeremy mej@student.pxl.be   M       048060   
+Paggen Raphaël     par@student.pxl.be   M       015020   
+Sagdeeva Dinara    sad@student.pxl.be   V       075100   
+Schils Jan         scj@student.pxl.be   M       019020 
+Schrooten Liesbet  scl@student.pxl.be   V       017020  
+Simons Bart        sib@student.pxl.be   M       075100   
+Seilleur Gwen      seg@student.pxl.be   M       075100   
+Toelen Thomas      tot@student.pxl.be   M       075100   
+Van Acker Rudi     var@student.pxl.be   M       015020   
+Van Mulken Piet    vap@student.pxl.be   M       015020   
+Vekemans Sander    vep@student.pxl.be   M       100100   
+Vrancken Isabelle  vri@student.pxl.be   V       085100  
+Vos Gert           vog@student.pxl.be   M       049050
